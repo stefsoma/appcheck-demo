@@ -1,0 +1,14 @@
+{
+    "home": {
+      "title": "Willkommen bei der AppCheck-Demo",
+      "description": "Dies ist ein Demo-Projekt zur Veranschaulichung der AppCheck-Funktionalität."
+    },
+    "about": {
+      "title": "Über AppCheck",
+      "description": "AppCheck ist ein Tool zur Erkennung potenzieller Sicherheitsprobleme in Ihrem Code."
+    },
+    "contact": {
+      "title": "Kontaktieren Sie uns",
+      "description": "Kontaktieren Sie uns für weitere Informationen über AppCheck."
+    }
+  }

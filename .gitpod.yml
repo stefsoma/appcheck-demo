@@ -1,0 +1,11 @@
+tasks:
+  - init: npm install
+    command: npm run dev
+
+ports:
+  - port: 3000
+    onOpen: open-preview
+
+vscode:
+  extensions:
+    - dbaeumer.vscode-eslint

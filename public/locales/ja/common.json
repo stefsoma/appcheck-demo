@@ -1,0 +1,14 @@
+{
+    "home": {
+      "title": "AppCheckデモへようこそ",
+      "description": "これはAppCheckの機能を紹介するデモプロジェクトです。"
+    },
+    "about": {
+      "title": "AppCheckについて",
+      "description": "AppCheckは、コード内の潜在的なセキュリティ問題を検出するツールです。"
+    },
+    "contact": {
+      "title": "お問い合わせ",
+      "description": "AppCheckについての詳細は、お問い合わせください。"
+    }
+  }

@@ -1,0 +1,14 @@
+{
+    "home": {
+      "title": "Welcome to AppCheck Demo",
+      "description": "This is a demo project to showcase AppCheck functionality."
+    },
+    "about": {
+      "title": "About AppCheck",
+      "description": "AppCheck is a tool to detect potential security issues in your code."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "description": "Get in touch with us for more information about AppCheck."
+    }
+  }
