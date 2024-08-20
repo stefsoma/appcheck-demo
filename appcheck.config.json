@@ -1,0 +1,24 @@
+{
+  "translationDir": "./public/locales",
+  "apiEndpoint": "",
+  "languageCodeFormat": "en",
+  "languages": [
+    "en",
+    "es",
+    "fr",
+    "de",
+    "no",
+    "ru",
+    "hu",
+    "ch",
+    "pl",
+    "it",
+    "pt"
+  ],
+  "projectDirs": [
+    "./pages"
+  ],
+  "translationFunction": "t",
+  "configureMappings": false,
+  "languageMapping": []
+}
